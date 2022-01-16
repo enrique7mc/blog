@@ -7,4 +7,6 @@ categories: blog
 
 This is the first post of the blog.
 
+Hello world
+
 But, it has not content yet.
